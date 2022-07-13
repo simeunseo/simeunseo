@@ -15,7 +15,7 @@ Sogang Univ, Art&Technology / Computer Science
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>
 <img src="https://img.shields.io/badge/max-525252?style=flat-square&logo=max&logoColor=black"></a>
-...and more will be added :)
+...and more will be added 😎
 
 ### 🎨 Design Skills
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"></a>
