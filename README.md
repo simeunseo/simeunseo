@@ -17,6 +17,7 @@ Sogang Univ, Art&Technology / Computer Science
 ...and more will be added 😎
 
 ### 🎨 Design Skills
+<img src="https://img.shields.io/badge/figma-%F24E1E.svg?style=flat-square&logo=figma&logoColor=white"></a>
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"></a>
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
