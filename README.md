@@ -24,3 +24,4 @@ Sogang Univ, Art&Technology / Computer Science
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"></a>
 <img src="https://img.shields.io/badge/autodesk-0696D7.svg?style=flat-square&logo=autodesk&logoColor=white"></a>
 
+[![Eunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=simeunseo)](https://github.com/simeunseo/github-readme-stats)
