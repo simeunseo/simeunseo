@@ -1,5 +1,8 @@
 # 🍀 Eunseo Sim
 
+## 제 깃허브에 놀러오셨나요? 방명록 써주세요.
+[방명록 쓰러가기](https://love2luck-q4li0s4wi-simeunseo.vercel.app/)
+
 ### 📖 Major In
 
 Sogang Univ, Art&Technology / Computer Science
