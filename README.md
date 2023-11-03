@@ -4,7 +4,7 @@
 
 ### 📖 Major In
 
-Sogang Univ, Art&Technology / Computer Science
+Sogang Univ, Art&Technology / Computer Science and Engineering
     
 ### 🛠 Tech Skills
 
