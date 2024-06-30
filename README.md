@@ -1,5 +1,5 @@
 # 심은서 *Eunseo Sim* <a href="https://love2luck.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/%EB%B0%A9%EB%AA%85%EB%A1%9D%EC%9D%84_%EB%82%A8%EA%B2%A8%EB%B3%B4%EC%84%B8%EC%9A%94-green?style=for-the-badge&logo=stackexchange&logoColor=%23fff"></a>
-창의력과 섬세함을 기반으로 가치를 실현합니다.
+창의력과 섬세함을 기반으로 가치를 만듭니다.
 
 
 </a>
