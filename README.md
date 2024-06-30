@@ -9,7 +9,7 @@
 - 대학 연합 IT 해커톤 동아리 구름톤 유니브 학교 대표 및 공식 홈페이지 개발 `2023.09 - 2024.01`
 - IT벤처 창업 동아리 SOPT 32기, 33기 웹파트 부원 `2023.03 - 2024.01`
 - 웹개발 동아리 피로그래밍 17기 부원, 18기 부회장 `2022.07 - 2023.02`
-- 컨텐츠 플랫폼 술펀 콘텐츠•상품 디자이너 및 매니저 `2020.12 - 2021.10`
+- 우리술 컨텐츠 플랫폼 술펀 콘텐츠•상품 디자이너 및 매니저 `2020.12 - 2021.10`
 
 ## Projects
 - <a href="https://github.com/sopt-makers/sopt-playground-frontend"><img alt="Static Badge" src="https://img.shields.io/badge/SOPT_Playground-gray?style=flat-square"></a> | SOPT 구성원을 위한 서비스 | FE개발 | `2024.03 - NOW`
