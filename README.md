@@ -12,9 +12,9 @@
 - 우리술 컨텐츠 플랫폼 술펀 콘텐츠•상품 디자이너 및 매니저 `2020.12 - 2021.10`
 
 ## Projects
-- <a href="https://github.com/sopt-makers/sopt-playground-frontend"><img alt="Static Badge" src="https://img.shields.io/badge/SOPT_Playground-gray?style=flat-square"></a> | SOPT 구성원을 위한 서비스 | FE개발 | `2024.03 - NOW`
-- <a href="https://github.com/simeunseo/WHERE_IS_POLAR"><img alt="Static Badge" src="https://img.shields.io/badge/WHERE_IS_POLAR-gray?style=flat-square"></a> | 세상의 꿈을 수집하고, 보관하고, 추적하는 인류 꿈 기록소 | 기획, 디자인, FE개발, BE개발 | `2023.11`
-- <a href="https://github.com/ASAP-as-soon-as-possible/ASAP_Client"><img alt="Static Badge" src="https://img.shields.io/badge/ASAP-gray?style=flat-square"></a> | 최적의 회의시간 도출 서비스 | FE개발 | `2023.07 - NOW`
+- <a href="https://github.com/sopt-makers/sopt-playground-frontend"><img alt="Static Badge" src="https://img.shields.io/badge/SOPT_Playground-gray?style=flat-square"></a> | SOPT 구성원을 위한 [서비스](https://playground.sopt.org/)| FE개발 | `2024.03 - NOW`
+- <a href="https://github.com/simeunseo/WHERE_IS_POLAR"><img alt="Static Badge" src="https://img.shields.io/badge/WHERE_IS_POLAR-gray?style=flat-square"></a> | 세상의 꿈을 수집하고, 보관하고, 추적하는 인류 꿈 [기록소](https://whereispolar.com) | 기획, 디자인, FE개발, BE개발 | `2023.11`
+- <a href="https://github.com/ASAP-as-soon-as-possible/ASAP_Client"><img alt="Static Badge" src="https://img.shields.io/badge/ASAP-gray?style=flat-square"></a> | 최적의 회의시간 도출 [서비스](https://www.beginwithasap.com/) | FE개발 | `2023.07 - NOW`
 - <a href="https://github.com/Piro17-Project-Birthday/Piro17-Project-Birthday"><img alt="Static Badge" src="https://img.shields.io/badge/%EC%B6%94%EC%B9%B4%ED%8F%AC%EC%B9%B4-gray?style=flat-square"></a> | 축하의 마음을 당당하게, 생일 축하 메시지 서비스 | 기획, 디자인, FE개발, BE개발 | `2022.08`
 
 ## Education
