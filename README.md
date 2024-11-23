@@ -16,7 +16,7 @@
 |------|------|------|------|------|
 | **24.03-NOW** | SOPT Playground | SOPT 구성원을 위한 서비스 | FE개발 | [🔗 Production](https://playground.sopt.org/) <br/> [👾 Github](https://github.com/sopt-makers/sopt-playground-frontend) |
 | 23.07-23.10<br/>24.06-24.08 | ASAP | 최적의 회의시간 도출 서비스 | FE개발 | [🔗 Production](https://www.beginwithasap.com/) <br/> [👾 Github](https://github.com/ASAP-as-soon-as-possible/ASAP_Client) |
-| 23.11 | WHERE IS POLAR | 세상의 꿈을 수집하고, 보관하고, 추적하는 인류 꿈 기록소 | 기획, 디자인, FE개발, BE개발 | [🔗 Production](https://whereispolar.com) |
+| 23.11 | WHERE IS POLAR | 인류 꿈 기록소 | 기획, 디자인, FE개발, BE개발 | [🔗 Production](https://whereispolar.com) |
 | 22.08 | 추카포카 | 생일 축하 메시지 서비스 | 기획, 디자인, FE개발, BE개발 | [👾 Github](https://github.com/Piro17-Project-Birthday/Piro17-Project-Birthday) |
 
 ## Education
