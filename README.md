@@ -4,8 +4,8 @@
 ## Experiences
 | 기간 | 소속 | 내용 |
 |------|------|------|
-| **24.07-NOW** | 네이버 커넥트재단 [부스트캠프 Web·Mobile](https://boostcamp.connect.or.kr/program_wm.html) 9기 | 챌린지·멤버십 |
 | **24.03-NOW** | [SOPT Makers](https://makers.sopt.org/) | Web Frontend 챕터원 |
+| 24.07-24.12 | 네이버 커넥트재단 [부스트캠프 Web·Mobile](https://boostcamp.connect.or.kr/program_wm.html) 9기 | 챌린지·멤버십 |
 | 23.09-24.01 | 대학 연합 IT 해커톤 동아리 구름톤 유니브 | 학교 대표 및 [공식 홈페이지](https://9oormthon.university/) 개발 |
 | 23.03-24.01 | IT벤처 창업 동아리 [SOPT](https://www.sopt.org/) 32기, 33기 | 웹파트 부원 |
 | 22.07-23.02 | 웹개발 동아리 [피로그래밍](https://pirogramming.com/) 17기, 18기 | 부원, 부회장 |
