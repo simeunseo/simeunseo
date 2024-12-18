@@ -1,8 +1,15 @@
-# 심은서 *Eunseo Sim* <a href="https://love2luck.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/%EB%B0%A9%EB%AA%85%EB%A1%9D%EC%9D%84_%EB%82%A8%EA%B2%A8%EB%B3%B4%EC%84%B8%EC%9A%94-green?style=for-the-badge&logo=stackexchange&logoColor=%23fff"></a>
+<div align='center'>
+  
+# 심은서 *Eunseo Sim*
+<a href="https://love2luck.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/%EB%B0%A9%EB%AA%85%EB%A1%9D%EC%9D%84_%EB%82%A8%EA%B2%A8%EB%B3%B4%EC%84%B8%EC%9A%94-green?style=for-the-badge&logo=stackexchange&logoColor=%23fff"></a>
 
 <img src='https://github.com/user-attachments/assets/7193db16-095e-4da8-a9b2-e8388ec59389' height='250'/>
 
 𝙄 𝙡𝙤𝙫𝙚 𝙛𝙞𝙣𝙙𝙞𝙣𝙜 𝙬𝙝𝙖𝙩 𝙄 𝙡𝙤𝙫𝙚!
+
+</div>
+
+<br/>
 
 ## Experiences
 - **[SOPT Makers](https://makers.sopt.org/) Web Frontend 챕터원 (24.03-NOW)**
