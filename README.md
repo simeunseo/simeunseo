@@ -10,6 +10,8 @@
 </div>
 
 <br/>
+## Career
+- [RapportLabs](https://www.rapportlabs.kr/ko/home) Frontend Engineer (25.01 - NOW)
 
 ## Experiences
 - [SOPT Makers](https://makers.sopt.org/) Web Frontend 챕터원 (24.03-25.01)
@@ -20,7 +22,7 @@
 - 우리술 컨텐츠 플랫폼 술펀 콘텐츠·상품 디자이너 및 매니저 (20.12-21.10)
 
 ## Projects
-- [SOPT Playground](https://playground.sopt.org/) Frontend 개발 (24.03-NOW)
+- [SOPT Playground](https://playground.sopt.org/) Frontend 개발 (24.03-25.01)
 - [ASAP](https://www.beginwithasap.com/) Frontend 개발 (23.07-23.10, 24.06-24.08)
 - [WHERE IS POLAR](https://whereispolar.com) 기획, 디자인, Frontend 개발, Backend 개발 (23.11)
 - [추카포카](https://github.com/Piro17-Project-Birthday/Piro17-Project-Birthday) 기획, 디자인, Frontend 개발, Backend 개발 (22.08)
