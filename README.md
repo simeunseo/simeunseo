@@ -22,7 +22,7 @@
 <br/>
 
 ## Career
-- [RapportLabs](https://www.rapportlabs.kr/) Frontend Engineer (25.01 - NOW)
+- [RapportLabs](https://www.rapportlabs.kr/) Frontend Engineer (25.01 - 25.12)
 
 ## Experiences
 - [SOPT Makers](https://makers.sopt.org/) Web Frontend 챕터원 (24.03-25.01)
